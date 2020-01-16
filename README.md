@@ -3,7 +3,7 @@
 ## Canny Edge Detection
 Compute the Canny Edges for any RGB image.
 
-
+![](Canny_edge_detection/edge_detection_output/135069_edge.png)
 
 ## Image Gradient Blending
 Seamlessly blend an object from a source image into a target image.
