@@ -2,6 +2,7 @@
 
 ## Canny Edge Detection
 Compute the Canny Edges for any RGB image.
+![](Canny_)
 
 ## Image Gradient Blending
 Seamlessly blend an object from a source image into a target image.
