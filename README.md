@@ -8,7 +8,7 @@ Compute the Canny Edges for any RGB image.
 ## Image Gradient Blending
 Seamlessly blend an object from a source image into a target image.
 
-<img src="Image_gradient_blending/output/3_Blend.jpg" width="200" height="200">
+<img src="Image_gradient_blending/output/3_Blend.jpg" width="708" height="470">
 
 ## Image Morphing
 Produce a "morph" animation of one's face into another person’s face.
