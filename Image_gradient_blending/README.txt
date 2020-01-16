@@ -1,6 +1,7 @@
-1. For the given testing source image, mask and background image, just run demo.py. It will complete the blending process and show the blended image.
+# Image gradient blending
+For the given testing source image, mask and background image, just run demo.py. It will complete the blending process and show the blended image.
 
-2. For my own source images and background images:
+For my own source images and background images:
 
 1) Open demo.py
 
