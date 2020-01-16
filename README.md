@@ -1,4 +1,4 @@
-# Image_addressing_algorithms_from_scratch
+# Image processing algorithms from scratch
 
 ## Canny Edge Detection
 Compute the Canny Edges for any RGB image.
