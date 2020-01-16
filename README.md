@@ -1,18 +1,10 @@
 # Image processing algorithms from scratch
 
 ## Canny Edge Detection
+
 ![](Canny_edge_detection/edge_detection_output/135069_edge.png)
 
 ## Image Gradient Blending
-<p align="center">
-<img src="Image_gradient_blending/2_source.jpg" width="141" height="177">
-</p>
-<p align="center">
-<img src="Image_gradient_blending/2_background.jpg" width="425" height="611">
-</p>
-<p align="center">
-<img src="Image_gradient_blending/output/2_Blend.jpg" width="425" height="611">
-</p>
 
 <p align="center">
 <img src="Image_gradient_blending/3_source.jpg" width="212" height="142">
@@ -22,6 +14,16 @@
 </p>
 <p align="center">
 <img src="Image_gradient_blending/output/3_Blend.jpg" width="708" height="470">
+</p>
+
+<p align="center">
+<img src="Image_gradient_blending/4_source.jpg" width="227" height="142">
+</p>
+<p align="center">
+<img src="Image_gradient_blending/4_background.jpg" width="425" height="567">
+</p>
+<p align="center">
+<img src="Image_gradient_blending/output/4_Blend.jpg" width="425" height="567">
 </p>
 
 ## Image Morphing
