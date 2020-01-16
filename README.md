@@ -8,6 +8,10 @@ Compute the Canny Edges for any RGB image.
 ## Image Gradient Blending
 Seamlessly blend an object from a source image into a target image.
 
+<img src="Image_gradient_blending/2_source.jpg" width="141" height="177">
+<img src="Image_gradient_blending/2_background.jpg" width="425" height="611">
+<img src="Image_gradient_blending/output/2_Blend.jpg" width="425" height="611">
+
 <img src="Image_gradient_blending/3_source.jpg" width="212" height="142">
 <img src="Image_gradient_blending/3_background.jpg" width="708" height="470">
 <img src="Image_gradient_blending/output/3_Blend.jpg" width="708" height="470">
