@@ -17,6 +17,8 @@ Pokemon Detective Pikachu in my bedroom.
 
 ## Image Morphing
 Produce a "morph" animation of one's face into another person’s face.
+![](Image_morphing/shoes.gif)
+
 
 ## Seam Carving
 Implementing image resizing utilizing scene carving.
