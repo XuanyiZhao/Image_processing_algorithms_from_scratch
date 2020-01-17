@@ -1,7 +1,6 @@
 # Image processing algorithms from scratch
 
 ## Canny Edge Detection
-
 ![](Canny_edge_detection/edge_detection_output/135069_edge.png)
 
 ## Image Gradient Blending
@@ -22,6 +21,7 @@ Produce a "morph" animation of one's face (or one item) into another person’s 
 
 ## Seam Carving
 Implementing image resizing utilizing scene carving.
+![](Seam_carving/output_Philly.gif)
 
 ## Image Stitching
 
