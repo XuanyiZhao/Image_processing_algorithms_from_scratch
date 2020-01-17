@@ -24,5 +24,7 @@ Implementing image resizing utilizing scene carving.
 ![](Seam_carving/output_Philly.gif)
 
 ## Image Stitching
+![](Image_Stitching/image_stitching_output/stitched1.jpg)
+![](Image_Stitching/image_stitching_output/stitched2.jpg)
 
 ## Optical Flow & Visual Tracking
