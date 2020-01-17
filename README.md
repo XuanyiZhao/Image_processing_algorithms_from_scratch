@@ -7,22 +7,10 @@
 ## Image Gradient Blending
 AA Airplane flying over the Golden Gate Bridge. 
 <p align="center">
-<img src="Image_gradient_blending/3_source.jpg" width="212" height="142">
-</p>
-<p align="center">
-<img src="Image_gradient_blending/3_background.jpg" width="708" height="470">
-</p>
-<p align="center">
 <img src="Image_gradient_blending/output/3_Blend.jpg" width="708" height="470">
 </p>
 
 Pokemon Detective Pikachu in my bedroom. 
-<p align="center">
-<img src="Image_gradient_blending/4_source.jpg" width="227" height="142">
-</p>
-<p align="center">
-<img src="Image_gradient_blending/4_background.jpg" width="425" height="567">
-</p>
 <p align="center">
 <img src="Image_gradient_blending/output/4_Blend.jpg" width="425" height="567">
 </p>
