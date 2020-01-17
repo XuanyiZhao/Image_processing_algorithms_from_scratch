@@ -27,4 +27,4 @@ Implementing image resizing utilizing scene carving.
 ![](Image_Stitching/image_stitching_output/stitched2.jpg)
 
 ## Optical Flow & Visual Tracking
-![](Optical_flow_and_visual_tracking/medium.gif)
+![](Optical_flow_and_visual_tracking/easy.gif)
