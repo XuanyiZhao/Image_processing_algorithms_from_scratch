@@ -5,7 +5,7 @@
 ![](Canny_edge_detection/edge_detection_output/135069_edge.png)
 
 ## Image Gradient Blending
-
+AA Airplane flying over the Golden Gate Bridge. 
 <p align="center">
 <img src="Image_gradient_blending/3_source.jpg" width="212" height="142">
 </p>
@@ -16,6 +16,7 @@
 <img src="Image_gradient_blending/output/3_Blend.jpg" width="708" height="470">
 </p>
 
+Pokemon Detective Pikachu in my bedroom. 
 <p align="center">
 <img src="Image_gradient_blending/4_source.jpg" width="227" height="142">
 </p>
