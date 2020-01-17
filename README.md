@@ -16,7 +16,7 @@ Pokemon Detective Pikachu in my bedroom.
 </p>
 
 ## Image Morphing
-Produce a "morph" animation of one's face into another person’s face.
+Produce a "morph" animation of one's face (or one item) into another person’s face (another item).
 ![](Image_morphing/shoes.gif)
 
 
