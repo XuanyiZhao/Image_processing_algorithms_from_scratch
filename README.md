@@ -1,7 +1,7 @@
 # Image processing algorithms from scratch
 
 ## Canny Edge Detection
-![](Canny_edge_detection/edge_detection_output/135069_edge.png)
+![](Canny_edge_detection/edge_detection_output/3096_edge.png)
 
 ## Image Gradient Blending
 AA Airplane flying over the Golden Gate Bridge. 
